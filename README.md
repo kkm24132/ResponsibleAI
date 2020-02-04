@@ -10,6 +10,9 @@ Goal is to capture understanding of ethics of AI, guidelines, ecosystem around t
 
 ![ML Roadmap](/figure/CRISP_DM.png)
 
+- Focus on every stages in the ML journey
+- Critical to highlight on detailing and what tasks are performed in a step wise manner 
+
 ## References
 
 - Refer to ![Mckinsey podcast on ethical AI](https://www.mckinsey.com/featured-insights/artificial-intelligence/the-ethics-of-artificial-intelligence#)
