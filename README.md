@@ -6,6 +6,10 @@ Goal is to capture understanding of ethics of AI, guidelines, ecosystem around t
   - Fairness, History dataset is reality or not
   - Unethical aspects / Unfair usage
 
+## Machine Learning Roadmap
+
+![ML Roadmap](/figure/CRISP_DM.png)
+
 ## References
 
 - Refer to ![Mckinsey podcast on ethical AI](https://www.mckinsey.com/featured-insights/artificial-intelligence/the-ethics-of-artificial-intelligence#)
