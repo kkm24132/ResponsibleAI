@@ -6,6 +6,14 @@ Goal is to capture understanding of ethics of AI, guidelines, ecosystem around t
   - Fairness, History dataset is reality or not
   - Unethical aspects / Unfair usage
 
+- Regulatory aspects:
+  - Region specific needs (e.g. GDPR etc.)
+  
+- Provide clarity as much as possible 
+  - What is happening from Step 1 to Step N
+  - Features used during feature engineering process
+  - Any information regarding feature importance / Top N features (as per applicability)
+
 ## Machine Learning Roadmap
 
 ![ML Roadmap](/figure/CRISP_DM.png)
