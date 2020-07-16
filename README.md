@@ -30,3 +30,12 @@ Goal is to capture understanding of ethics of AI, guidelines, ecosystem around t
 - ![State of ML Operations 2020](https://github.com/EthicalML/state-of-mlops-2020) - by Alejandro
 - ![The Institute for ethical AI & ML](https://github.com/EthicalML/ethical)
 
+## Why do we need ML Interpretability?
+
+- Some questions pertaining to Model bias, fairness, ethics
+- Do we check causality of features? Does more data help here making better decision?
+- Do we have ability to debug and know more specifics
+- Are there any regulatory requirements associated with and needs to be understood in detail?
+- Do we trust model's outcomes and to what extent?
+- Do we have a segregation of critical domain vs non-critical domain that can be defined?
+
