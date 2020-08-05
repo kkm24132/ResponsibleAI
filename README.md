@@ -1,18 +1,12 @@
 ## EthicalAI
-Goal is to capture understanding of ethics of AI, guidelines, ecosystem around that!!
+Goal is to capture understanding of ethics of AI, guidelines, ecosystem around that.
 
-- Risk in deployment:
-  - Bias (Dataset does not reflect facial recognition not working properly for example)
-  - Fairness, History dataset is reality or not
-  - Unethical aspects / Unfair usage
-
-- Regulatory aspects:
-  - Region specific needs (e.g. GDPR etc.)
+Category|Description
+--------|-----------
+**Risk in deployment** | <ul><li> 1: Bias (Dataset does not reflect facial recognition not working properly for example)<li> 2: Fairness, History dataset is reality or not<li> 3: Unethical aspects / Unfair usage</ul>
+**Regulatory aspects** | <ul><li> 1: Region specific needs (e.g. GDPR etc.)<li></ul>
+**Provide clarity as much as possible** | <ul><li> 1: What is happening from Step 1 to Step N<li> 2: Features used during feature engineering process<li> 3: Any information regarding feature importance / Top N features (as per applicability)</ul>
   
-- Provide clarity as much as possible 
-  - What is happening from Step 1 to Step N
-  - Features used during feature engineering process
-  - Any information regarding feature importance / Top N features (as per applicability)
 
 ## Machine Learning Roadmap
 
