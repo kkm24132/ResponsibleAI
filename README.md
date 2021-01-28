@@ -22,6 +22,8 @@ The Ethical institute has recommended following principles
 
 Please check [here](https://ethical.institute/)
 
+As per HBR (Harvard Business review), the ethical frameworks for AI aren't enough. [Check Here](https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough)
+
 ## Machine Learning Roadmap
 
 ![ML Roadmap](/figure/CRISP_DM.png)
