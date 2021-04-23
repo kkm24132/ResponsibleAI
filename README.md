@@ -65,7 +65,7 @@ This [research paper](https://arxiv.org/pdf/1901.10002.pdf) can be followed for 
 - Evaluation Bias
 - Deployment Bias
 
-![Bias in AI]()
+![Bias in AI](https://github.com/kkm24132/EthicalAI/blob/master/figure/Bias_AI.png)
 
 
 
