@@ -54,4 +54,18 @@ As per HBR (Harvard Business review), the ethical frameworks for AI aren't enoug
 - Stanford Human-centered Artificial Intelligence [research](https://hai.stanford.edu/research)
 - Google's People + AI research (PAIR) [Guidebook](https://pair.withgoogle.com/tools/)
 
+## Bias - Different Types
+
+This [research paper](https://arxiv.org/pdf/1901.10002.pdf) can be followed for 6 different types of Bias in AI.
+
+- Historical Bias
+- Representation Bias
+- Measurement Bias
+- Aggregation Bias
+- Evaluation Bias
+- Deployment Bias
+
+![Bias in AI]()
+
+
 
