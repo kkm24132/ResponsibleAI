@@ -49,3 +49,9 @@ As per HBR (Harvard Business review), the ethical frameworks for AI aren't enoug
 - Do we trust model's outcomes and to what extent?
 - Do we have a segregation of critical domain vs non-critical domain that can be defined?
 
+## Human-Centered Design for AI/Data Science
+- Lex Fridman's [lecture](https://www.youtube.com/watch?v=bmjamLZ3v8A) on Human-Centered Artificial Intelligence :MIT 6.S093
+- Stanford Human-centered Artificial Intelligence [research](https://hai.stanford.edu/research)
+- Google's People + AI research (PAIR) [Guidebook](https://pair.withgoogle.com/tools/)
+
+
