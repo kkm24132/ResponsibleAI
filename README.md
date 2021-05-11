@@ -1,5 +1,6 @@
-## EthicalAI
-Goal is to capture understanding of ethics of AI, guidelines, ecosystem around that.
+# Ethical AI / Responsible AI
+
+**Objective:** Ethical AI / Responsible AI: Capture fundamentals around ethics of AI, responsible AI from principle, process, standards, guidelines, ecosystem, regulation/risk standpoint.
 
 Category|Description
 --------|-----------
@@ -8,7 +9,7 @@ Category|Description
 **Provide clarity as much as possible** | <ul><li> 1: What is happening from Step 1 to Step N<li> 2: Features used during feature engineering process<li> 3: Any information regarding feature importance / Top N features (as per applicability)</ul>
 **How to approach Bias in AI** | <ul> <li> 1. Gather more diverse datasets <li> 2. Explore to include labels from a wider range of judges <li> 3. Monitor output of models / experiments / algorithms <li> 4. Focus on small categories and edge cases <li> 4. Laws and Regulation protocol may be required to address bias </ul>
 
-### Principles from the Ethical Institute
+## Principles from the Ethical Institute
 
 The Ethical institute has recommended following principles
 - Human Augmentation
