@@ -60,7 +60,6 @@ As per HBR (Harvard Business review), the ethical frameworks for AI aren't enoug
 - Google's People + AI research (PAIR) [Guidebook](https://pair.withgoogle.com/tools/)
 
 ## Bias - Different Types
-
 This [research paper](https://arxiv.org/pdf/1901.10002.pdf) can be followed for 6 different types of Bias in AI.
 
 - Historical Bias
@@ -71,6 +70,25 @@ This [research paper](https://arxiv.org/pdf/1901.10002.pdf) can be followed for 
 - Deployment Bias
 
 ![Bias in AI](https://github.com/kkm24132/EthicalAI/blob/master/figure/Bias_AI.png)
+
+## Fairness and Model Explainability
+- This is needed at CRISP-DM stages from a holistic point of view (Kind of a Checklist)
+- Problem Formation
+  - Is an algorithm an ethical solution to the problem?
+- Construction of Datasets / Preparation Process
+  - Is the training data representative of different groups so that we have diverse data representation for appropriate analysis of feature presence?
+  - Are there biases in labels or features?
+  - Does the data need to be modified to mitigate bias?
+- Selection of Algorithms or Methods
+  - Do fairness constraints need to be included in the objective function?
+- Training Process
+- Testing Process
+  - Has the model been evaluated using relevant fairness metrics?
+- Deployment
+  - Is the model deployed on a population for which it was not trained or evaluated?
+  - Are there unequal effects across users?
+- Monitoring / HITL
+  - Does the model encourage feedback loops that can produce increasingly unfair outcomes?
 
 ## News / Updates
 - Scotland AI Strategy: Scotland launched its National AI Strategy and announced that the government is formally adopting the policy guidance. It is the first country to do so and a unique opportunity for advocacy and engagement with policymakers on this topic. The AI strategy also highlights the Scottish Government’s work with the Data for Children Collaborative, a joint partnership between UNICEF and the University of Edinburgh’s Data Driven Innovation Programme, which investigates ways of using data to improve the lives of children around the world. Please refer [here](https://github.com/kkm24132/EthicalAI/blob/master/figure/Scotland_AI_Strategy.pdf) for details
