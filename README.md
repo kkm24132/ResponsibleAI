@@ -71,7 +71,7 @@ This [research paper](https://arxiv.org/pdf/1901.10002.pdf) can be followed for 
 
 ![Bias in AI](https://github.com/kkm24132/EthicalAI/blob/master/figure/Bias_AI.png)
 
-## Fairness and Model Explainability
+## Fairness and Model Explainability CHECKLIST
 - This is needed at CRISP-DM stages from a holistic point of view (Kind of a Checklist)
 - Problem Formation
   - Is an algorithm an ethical solution to the problem?
