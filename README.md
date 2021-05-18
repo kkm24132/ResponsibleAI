@@ -2,6 +2,9 @@
 
 **Objective:** Ethical AI / Responsible AI: Capture fundamentals around ethics of AI, responsible AI from principle, process, standards, guidelines, ecosystem, regulation/risk standpoint.
 
+### My Articles/Blogs references
+- [Model Explainability and JRT AI](https://towardsdatascience.com/model-explainability-and-jrt-ai-b420531a0d49) - JRT (Justifiable, Responsible and Transparent) AI is becoming critical in model explainability while solving data driven business problems
+
 Category|Description
 --------|-----------
 **Risk in deployment** | <ul><li> 1: Bias (Dataset does not reflect facial recognition not working properly for example)<li> 2: Fairness, History dataset is reality or not<li> 3: Unethical aspects or Unfair usage</ul>
