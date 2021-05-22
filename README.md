@@ -4,7 +4,7 @@
 
 ### My Articles/Blogs references
 - [Model Explainability and JRT AI](https://towardsdatascience.com/model-explainability-and-jrt-ai-b420531a0d49) - JRT (Justifiable, Responsible and Transparent) AI is becoming critical in model explainability while solving data driven business problems
-- [How do we apply Responsible AI in practical considerations?](https://medium.com/@mishra.kamal/how-do-we-apply-responsible-ai-in-practical-considerations-a-checklist-b7ef94623a0f) - this includes checklist, practical toolkits, framework and principles for success.
+- [How do we apply Responsible AI in practical considerations](https://medium.com/@mishra.kamal/how-do-we-apply-responsible-ai-in-practical-considerations-a-checklist-b7ef94623a0f) - this includes checklist, practical toolkits, framework and principles for success.
 
 ## Categories
 
