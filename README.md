@@ -104,4 +104,5 @@ This [research paper](https://arxiv.org/pdf/1901.10002.pdf) can be followed for 
 ## News / Updates
 - Scotland AI Strategy: Scotland launched its National AI Strategy and announced that the government is formally adopting the policy guidance. It is the first country to do so and a unique opportunity for advocacy and engagement with policymakers on this topic. The AI strategy also highlights the Scottish Government’s work with the Data for Children Collaborative, a joint partnership between UNICEF and the University of Edinburgh’s Data Driven Innovation Programme, which investigates ways of using data to improve the lives of children around the world. Please refer [here](https://github.com/kkm24132/EthicalAI/blob/master/figure/Scotland_AI_Strategy.pdf) for details
 - Responsible AI from [Google Cloud - GCP](https://cloud.google.com/responsible-ai) 
+- [Taking care of business with Responsible AI](https://cloud.google.com/blog/products/ai-machine-learning/taking-care-of-business-with-responsible-ai)
 
