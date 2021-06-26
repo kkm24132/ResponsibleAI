@@ -1,4 +1,4 @@
-# Ethical AI / Responsible AI
+## Ethical AI / Responsible AI
 
 **Objective:** Ethical AI / Responsible AI: Capture fundamentals around ethics of AI, responsible AI from principle, process, standards, guidelines, ecosystem, regulation/risk standpoint.
 
