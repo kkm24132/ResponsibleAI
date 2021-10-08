@@ -46,7 +46,6 @@ As per HBR (Harvard Business review), the ethical frameworks for AI aren't enoug
 
 - [Mckinsey podcast on ethical AI](https://www.mckinsey.com/featured-insights/artificial-intelligence/the-ethics-of-artificial-intelligence#)
 - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) : A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [CSIG videos](https://www.youtube.com/channel/UChVIj5DCe7Vg1Iu9ZO4bsXA)
 - [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) : This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond
 - [State of ML Operations 2020](https://github.com/EthicalML/state-of-mlops-2020) - by Alejandro
 - [The Institute for ethical AI & ML](https://github.com/EthicalML/ethical)
@@ -98,7 +97,7 @@ This [research paper](https://arxiv.org/pdf/1901.10002.pdf) can be followed for 
   - Does the model encourage feedback loops that can produce increasingly unfair outcomes?
 
 
-![Checklist Responsible AI](https://github.com/kkm24132/EthicalAI/blob/master/figure/Checklist_ResponsibleAI.png)
+[Checklist Responsible AI](https://github.com/kkm24132/EthicalAI/blob/master/figure/Checklist_ResponsibleAI.png)
 
 ## Policy Related Guidance
 
