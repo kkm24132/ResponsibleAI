@@ -97,7 +97,7 @@ This [research paper](https://arxiv.org/pdf/1901.10002.pdf) can be followed for 
   - Does the model encourage feedback loops that can produce increasingly unfair outcomes?
 
 
-[Checklist Responsible AI](https://github.com/kkm24132/EthicalAI/blob/master/figure/Checklist_ResponsibleAI.png)
+![Checklist Responsible AI](/figure/Checklist_ResponsibleAI.png)
 
 ## Policy Related Guidance
 
