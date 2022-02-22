@@ -109,6 +109,7 @@ Key Objectives could be as follows fro  Policy / Governance / Regulatory related
 **Frameworks:**
 - [Singapore Model AI Governance Framework](https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Governance-Framework) - by Personal Data Protection Commision, Singapore
 - [Scotland AI Strategy](https://github.com/kkm24132/EthicalAI/blob/master/figure/Scotland_AI_Strategy.pdf): Scotland launched its National AI Strategy and announced that the government is formally adopting the policy guidance. It is the first country to do so and a unique opportunity for advocacy and engagement with policymakers on this topic. The AI strategy also highlights the Scottish Government’s work with the Data for Children Collaborative, a joint partnership between UNICEF and the University of Edinburgh’s Data Driven Innovation Programme, which investigates ways of using data to improve the lives of children around the world. Please refer [here](https://github.com/kkm24132/EthicalAI/blob/master/figure/Scotland_AI_Strategy.pdf) for details
+- [OECD Framework for Classification of AI systems: A Tool for effective AI policies](https://oecd.ai/en/classification)
 
 ## News / Updates
 - Building an Organizational Approach to Responsible AI - [MIT Sloan Review](https://sloanreview.mit.edu/article/building-an-organizational-approach-to-responsible-ai/)
