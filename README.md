@@ -50,7 +50,8 @@ As per HBR (Harvard Business review), the ethical frameworks for AI aren't enoug
 - [State of ML Operations 2020](https://github.com/EthicalML/state-of-mlops-2020) - by Alejandro
 - [The Institute for ethical AI & ML](https://github.com/EthicalML/ethical)
 - Ethical Guidelines for Trustworthy AI [from European Union](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
-- Fair Machine Learning Book reference [https://fairmlbook.org/]
+- Fair Machine Learning Book [Set of references in PDF formats](https://fairmlbook.org/)
+- [Australian Human Rights and Technology](https://tech.humanrights.gov.au/)
 
 ## Why do we need ML Interpretability?
 
