@@ -17,7 +17,7 @@ Category|Description
 
 |Category | DOs (AI Should) |DON'Ts (AI Should Not) |
 |---------|-----------------|-----------------------|
-|<ul><li>Principles <li>Processes/Methods <li>Standards/Guidelines <li>Regulation</ul>|<ul><li>Incorporate Privacy Design Principles <li>Incoporate Regulation Principles <li>Be Accountable to users for the solutions that it generates <li>Upholds high standard of scientific excellence of the AI solution <li>Be Accountable to end users / people using the AI solution  </ul> | <ul><li>AI creates a solution that may likely to cause overall harm to end users <li> AI solution's principal objective to direct injury <li> Solitions aid in surveillance violating international guidelines </ul>|
+|<ul><li>Principles <li>Processes/Methods <li>Standards/Guidelines <li>Regulation</ul>|<ul><li>Incorporate Privacy Design Principles <li>Incoporate Regulation Principles <li>Be Accountable to users for the solutions that it generates <li>Upholds high standard of scientific excellence of the AI solution <li>Be Accountable to end users / people using the AI solution  </ul> | <ul><li>AI creates a solution that may likely to cause overall harm to end users <li> AI solution's principal objective to direct injury <li> Solutions aid in surveillance violating international guidelines </ul>|
 
 ## Principles from the Ethical Institute
 
